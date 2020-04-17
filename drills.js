@@ -106,7 +106,14 @@ function productExcept(arr) {
     return multipliedArray
 }
 
+
 //11. 2D Array
+
+const search0 = input => {
+    return input.map(arr => {
+      arr.forEach(elem => {});
+    });
+  };
 
 //12. Str rotation
 
